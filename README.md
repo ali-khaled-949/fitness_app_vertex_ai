@@ -1,5 +1,5 @@
 
-# fitness_app_vertex_ai
+# fitness App using Vertex AI
 Creating an app to test Vertex AI
 
 Concept Development:
